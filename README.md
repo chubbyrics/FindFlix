@@ -1,21 +1,35 @@
-<<<<<<< HEAD
-# recommender_app
+# Recommender App 📚🎬
 
-A new Flutter project.
+A Flutter-based mobile application that provides personalized book and movie recommendations using content-based filtering.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📚 Book recommendation system
+- 🎬 Movie recommendation system
+- 🔐 Secure API integration with secrets managed safely
+- 💡 Simple and intuitive user interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# FindFlix
-Movie/Book Recommender app 
->>>>>>> c3ec0ba0a17086ff816d5cee2c4edf8aab3a6763
+## 🛠️ Requirements
+
+Make sure you have the following installed:
+
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Android Studio or Visual Studio Code with Flutter extension
+- Git
+- Dart SDK (comes with Flutter)
+
+---
+
+## ⚙️ Getting Started
+
+Follow these steps to run the app locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/recommender_app.git
+cd recommender_app
