@@ -21,6 +21,7 @@ build/
 .pub-cache/
 .idea/
 android/.gradle/
+lib/secrets.dart
 
 
 # IntelliJ related
